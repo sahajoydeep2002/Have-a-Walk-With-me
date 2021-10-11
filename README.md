@@ -1,6 +1,6 @@
 <h1 align="center">Have a Walk With me</h1>
 <p align = "centre">
-</p><img class = "centre" width = 80% hight = 35% src="5018555.jpg">
+</p><img class = "centre" width = 95% hight = 25% src="5018555.jpg">
 </p>
 <h3 align="center">A step towards inclusivity of autism.</h3>
 
